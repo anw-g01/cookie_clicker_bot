@@ -1,9 +1,9 @@
 # Automated Cookie Clicker Bot
 This Python program utilises the powerful browser automation capabilities of Selenium WebDriver to develop a strategy to play the popular Cookie Clicker game (links provided below). Users can create their very own cookie clicker bot by using the class defintion from `cookie_clicker.py` (see Project Files) to implement a game strategy to generate the greatest number of cookies in the shortest span of time. This can be devised through optimising the choice of buying upgrades based on game variables provided by class attributes.
 
-Manually play the classic version of the Cookie Clicker game (created by Orteil): https://orteil.dashnet.org/experiments/cookie/
+Classic version of the Cookie Clicker game (created by Orteil): https://orteil.dashnet.org/experiments/cookie/
 
-Link to Selenium WebDriver: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+Selenium WebDriver documentation: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
 ## Prerequisites
 - Python 3.x installed on your machine.
