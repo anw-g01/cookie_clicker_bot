@@ -3,7 +3,7 @@ This Python program utilises the powerful browser automation capabilities of Sel
 
 Classic version of the Cookie Clicker game (created by Orteil): https://orteil.dashnet.org/experiments/cookie/
 
-Selenium WebDriver documentation: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+Selenium WebDriver: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
 ## Prerequisites
 - Python 3.x installed on your machine.
